@@ -1,10 +1,17 @@
 # Hotel Reservation System 
 <p>A simple and interactive hotel reservation system implemented in Java and MySQL with the help of JDBC driver. It allows to manage hotel reservations, view current bookings, edit reservation details, and delete reservations. Perfect for small hotels and guesthouses!</p>
 
-## Prerequisites 
+## Technologies used
 - Java Development Kit (JDK)
 - MySQL Database
 - MySQL Connector/J
+
+## Database Schema
+
+Reservations
+
+![image](https://github.com/kalyanikakade123/HotelReservationSystem/assets/86308103/d45a3a62-68b9-4dbc-afb4-391858bd9796)
+
 
 ## Setup
 1. Clone this repository
